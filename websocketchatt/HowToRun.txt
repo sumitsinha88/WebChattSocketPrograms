@@ -1,0 +1,7 @@
+1) Export this code in your local directory
+2) import this into your eclipse workspace (Eclipse ->import ->maven -> existing maven project -> locate file and finish)
+3) update maven
+4) build maven
+5) run the chatt program in application
+6) check for jetty run success
+7) run the program in browser "http://localhost:4567/" 4567 -> default port
